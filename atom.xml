@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GaoBo369.github.io</id>
     <title>个人随笔</title>
-    <updated>2020-11-11T02:32:36.752Z</updated>
+    <updated>2020-11-15T11:56:17.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://GaoBo369.github.io"/>
     <link rel="self" href="https://GaoBo369.github.io/atom.xml"/>
@@ -16,8 +16,9 @@
         <link href="https://GaoBo369.github.io/post/chen-mo-de-da-duo-shu/">
         </link>
         <updated>2020-11-11T00:51:19.000Z</updated>
-        <content type="html"><![CDATA[<center>待写。</center>
-<figure data-type="image" tabindex="1"><img src="https://GaoBo369.github.io/post-images/1605056024565.jpg" alt="题注" loading="lazy"></figure>
+        <content type="html"><![CDATA[<blockquote>
+<p>这个世界有个很大的误会，那就是以为人的种种想法都是由话语教出来的。假设如此，话语就是思维的样板。我说它是个误会，是因为世界还有阴的一面。除此之外，同样的话语也可能教出些很不同的想法。</p>
+</blockquote>
 ]]></content>
     </entry>
 </feed>
